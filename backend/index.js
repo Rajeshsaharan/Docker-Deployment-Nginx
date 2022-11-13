@@ -6,4 +6,4 @@ app.get('/api',(request, response)=>{
     response.send("our api platform is here ")
 })
 
-app.listen(5000)
+app.listen(3001)
